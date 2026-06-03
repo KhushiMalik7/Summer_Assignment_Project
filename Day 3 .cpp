@@ -58,12 +58,62 @@
 //	return 0;
 //}
 
+ // Q 11  FIND THE GCD OF TWO NUMBER 
 
- 
-// Q.12 FIND THE LCM OF TWO NUMBERS
-
+//#include<iostream>
+//using namespace std;
+//int main() {
+//	int a, b;
 //
-  
+//	cout << " enter first number :";
+//	cin >> a;
+//
+//	cout << " enter second number :";
+//	cin >> b;
+//
+//	int gcd = 1;
+//
+//	for (int i = 1; i <= a && i <= b; i++) {
+//		if (a % i == 0 && b % i == 0) {
+//			gcd = i;
+//		}
+//	 }
+//	 
+//	cout << " GCD =" << gcd << endl;
+//	return 0;
+//}
+// 
+// 
+// Q.12 FIND THE LCM OF TWO NUMBERS
+//
+
+//#include<iostream>
+//using namespace std;
+//int main() {
+// 
+//	int a, b;
+//
+//	cout << " enter first number :";
+//	cin >> a;
+//	 
+//	cout << " enter second number :";
+//	cin >> b;
+// 
+//	int i = 1; 
+//	 
+//	while (true) {
+//		if (i % a == 0 && i % b == 0) {
+//			cout << " LCM = " << i << endl;
+//		 }
+//		i++;
+//	}
+// 
+// 
+//	return 0;
+//}
+ 
+
+
 //int main() {
 //	 
 //	cout << " =================== DAY 3 ASSIGNMENT ==================" << endl;
