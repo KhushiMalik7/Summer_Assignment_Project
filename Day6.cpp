@@ -1,7 +1,7 @@
 //#include<iostream>
 // using namespace std ;
 
-// =========== DAY 4 ASSIGNMENT ==========
+// =========== DAY 6 ASSIGNMENT ==========
 
 
 //Q.21- WAP TO CONVERT DECIMAL TO BINARY 
