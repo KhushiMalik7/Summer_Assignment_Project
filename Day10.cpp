@@ -61,8 +61,7 @@
 //	}
 //	                                                                                                                                                                                                                                                                                                                             
 //}
-
-
+// 
 //Q.40- CHARACTER PYRAMID
 
 // #include<iostream>
