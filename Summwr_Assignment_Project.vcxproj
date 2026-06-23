@@ -127,11 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="AddTwoMatrix.cpp" />
-    <ClCompile Include="AngstrongNumberUsingFunction.cpp" />
     <ClCompile Include="BinarySear.cpp" />
     <ClCompile Include="BubbleSort.cpp" />
-    <ClCompile Include="CheckPalindrome.cpp" />
     <ClCompile Include="CompareTwoStrings.cpp" />
     <ClCompile Include="ConcatenateTwoStrings.cpp" />
     <ClCompile Include="ConvertStringToLowercase.cpp" />
@@ -139,12 +136,21 @@
     <ClCompile Include="CopyOneStringToAnother.cpp" />
     <ClCompile Include="CountDigitsAlphabetsAndSpecialCharacter.cpp" />
     <ClCompile Include="CountevenANDodd.cpp" />
-    <ClCompile Include="CountVowels.cpp" />
     <ClCompile Include="CountWordsInString.cpp" />
     <ClCompile Include="Day1.cpp" />
     <ClCompile Include="Day10.cpp" />
     <ClCompile Include="Day11.cpp" />
+    <ClCompile Include="Day12.cpp" />
+    <ClCompile Include="Day13.cpp" />
+    <ClCompile Include="Day14.cpp" />
+    <ClCompile Include="Day15.cpp" />
+    <ClCompile Include="Day16.cpp" />
+    <ClCompile Include="Day17.cpp" />
+    <ClCompile Include="Day18.cpp" />
+    <ClCompile Include="Day19.cpp" />
     <ClCompile Include="Day2.cpp" />
+    <ClCompile Include="Day20.cpp" />
+    <ClCompile Include="Day21.cpp" />
     <ClCompile Include="Day3.cpp" />
     <ClCompile Include="Day4.cpp" />
     <ClCompile Include="Day5.cpp" />
@@ -153,10 +159,7 @@
     <ClCompile Include="Day8.cpp" />
     <ClCompile Include="Day9.cpp" />
     <ClCompile Include="DecendingOrder.cpp" />
-    <ClCompile Include="DiagonalSum.cpp" />
-    <ClCompile Include="FibonacciSeriesUsingFunction.cpp" />
     <ClCompile Include="FindCharacterInString.cpp" />
-    <ClCompile Include="ReverseAString.cpp" />
     <ClCompile Include="SelectionSort.cpp" />
     <ClCompile Include="FindMaximumFrequencyElement.cpp" />
     <ClCompile Include="FindMissingNumberInArray.cpp" />
@@ -170,17 +173,12 @@
     <ClCompile Include="MatrixAddition.cpp" />
     <ClCompile Include="MatrixSubstraction.cpp" />
     <ClCompile Include="moveZeroToEnd.cpp" />
-    <ClCompile Include="PalindromeNumberUsingFinction.cpp" />
-    <ClCompile Include="PerfectNumberUsingFunction.cpp" />
     <ClCompile Include="removeDuplicateFromArray.cpp" />
     <ClCompile Include="ReverseArray.cpp" />
     <ClCompile Include="RightRotateArray.cpp" />
     <ClCompile Include="secondLargestElement.cpp" />
-    <ClCompile Include="StringLength.cpp" />
-    <ClCompile Include="SubtractTwoMatrix.cpp" />
     <ClCompile Include="SumAndAverageofArray.cpp" />
     <ClCompile Include="SumOfDiagonal.cpp" />
-    <ClCompile Include="TranspoaseOfMatrix.cpp" />
     <ClCompile Include="TransposeOfMatrix.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
