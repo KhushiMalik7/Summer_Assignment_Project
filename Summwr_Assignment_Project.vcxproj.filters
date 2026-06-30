@@ -13,30 +13,6 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="Source Files\Day13">
-      <UniqueIdentifier>{c55b82df-79e6-4d3c-a716-c0a0d227d52b}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Day14">
-      <UniqueIdentifier>{54edde37-0da3-4c61-87dc-5c4c4d04a24f}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Day15">
-      <UniqueIdentifier>{09ad7f79-fb90-424b-8ec2-d246a86f1fbf}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Day16">
-      <UniqueIdentifier>{9f0f0cf0-8105-4434-8210-69f112571a3d}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Day17">
-      <UniqueIdentifier>{19ea9aec-774a-4e3e-ab91-072fd291b2ee}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Day18">
-      <UniqueIdentifier>{d8126a12-3a22-4ac2-af19-fe9d2216c20a}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Day21">
-      <UniqueIdentifier>{55a59616-bdb6-4766-bfa9-4bdb73e2e05e}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Source Files\Day22">
-      <UniqueIdentifier>{3593e328-e818-4f1d-8def-566117ff862d}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Day1.cpp">
@@ -72,102 +48,6 @@
     <ClCompile Include="Day11.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="LargestAndSmallestElement.cpp">
-      <Filter>Source Files\Day13</Filter>
-    </ClCompile>
-    <ClCompile Include="inputAndDisplayArray.cpp">
-      <Filter>Source Files\Day13</Filter>
-    </ClCompile>
-    <ClCompile Include="SumAndAverageofArray.cpp">
-      <Filter>Source Files\Day13</Filter>
-    </ClCompile>
-    <ClCompile Include="CountevenANDodd.cpp">
-      <Filter>Source Files\Day13</Filter>
-    </ClCompile>
-    <ClCompile Include="Linearsearch.cpp">
-      <Filter>Source Files\Day14</Filter>
-    </ClCompile>
-    <ClCompile Include="secondLargestElement.cpp">
-      <Filter>Source Files\Day14</Filter>
-    </ClCompile>
-    <ClCompile Include="findDupilcateElement.cpp">
-      <Filter>Source Files\Day14</Filter>
-    </ClCompile>
-    <ClCompile Include="frequencyOfAnElement.cpp">
-      <Filter>Source Files\Day14</Filter>
-    </ClCompile>
-    <ClCompile Include="ReverseArray.cpp">
-      <Filter>Source Files\Day15</Filter>
-    </ClCompile>
-    <ClCompile Include="leftRotateArray.cpp">
-      <Filter>Source Files\Day15</Filter>
-    </ClCompile>
-    <ClCompile Include="RightRotateArray.cpp">
-      <Filter>Source Files\Day15</Filter>
-    </ClCompile>
-    <ClCompile Include="moveZeroToEnd.cpp">
-      <Filter>Source Files\Day15</Filter>
-    </ClCompile>
-    <ClCompile Include="FindMissingNumberInArray.cpp">
-      <Filter>Source Files\Day16</Filter>
-    </ClCompile>
-    <ClCompile Include="FindMaximumFrequencyElement.cpp">
-      <Filter>Source Files\Day16</Filter>
-    </ClCompile>
-    <ClCompile Include="FindPairWithGivenSum.cpp">
-      <Filter>Source Files\Day16</Filter>
-    </ClCompile>
-    <ClCompile Include="removeDuplicateFromArray.cpp">
-      <Filter>Source Files\Day16</Filter>
-    </ClCompile>
-    <ClCompile Include="MatrixAddition.cpp">
-      <Filter>Source Files\Day17</Filter>
-    </ClCompile>
-    <ClCompile Include="MatrixSubstraction.cpp">
-      <Filter>Source Files\Day17</Filter>
-    </ClCompile>
-    <ClCompile Include="TransposeOfMatrix.cpp">
-      <Filter>Source Files\Day17</Filter>
-    </ClCompile>
-    <ClCompile Include="SumOfDiagonal.cpp">
-      <Filter>Source Files\Day17</Filter>
-    </ClCompile>
-    <ClCompile Include="BubbleSort.cpp">
-      <Filter>Source Files\Day18</Filter>
-    </ClCompile>
-    <ClCompile Include="SelectionSort.cpp">
-      <Filter>Source Files\Day18</Filter>
-    </ClCompile>
-    <ClCompile Include="BinarySear.cpp">
-      <Filter>Source Files\Day18</Filter>
-    </ClCompile>
-    <ClCompile Include="DecendingOrder.cpp">
-      <Filter>Source Files\Day18</Filter>
-    </ClCompile>
-    <ClCompile Include="CountWordsInString.cpp">
-      <Filter>Source Files\Day21</Filter>
-    </ClCompile>
-    <ClCompile Include="ConvertStringToUppercase.cpp">
-      <Filter>Source Files\Day21</Filter>
-    </ClCompile>
-    <ClCompile Include="ConvertStringToLowercase.cpp">
-      <Filter>Source Files\Day21</Filter>
-    </ClCompile>
-    <ClCompile Include="CompareTwoStrings.cpp">
-      <Filter>Source Files\Day21</Filter>
-    </ClCompile>
-    <ClCompile Include="ConcatenateTwoStrings.cpp">
-      <Filter>Source Files\Day22</Filter>
-    </ClCompile>
-    <ClCompile Include="CopyOneStringToAnother.cpp">
-      <Filter>Source Files\Day22</Filter>
-    </ClCompile>
-    <ClCompile Include="FindCharacterInString.cpp">
-      <Filter>Source Files\Day22</Filter>
-    </ClCompile>
-    <ClCompile Include="CountDigitsAlphabetsAndSpecialCharacter.cpp">
-      <Filter>Source Files\Day22</Filter>
-    </ClCompile>
     <ClCompile Include="Day12.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -196,6 +76,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Day21.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Day22.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Day23.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
