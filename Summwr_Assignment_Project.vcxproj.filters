@@ -99,5 +99,8 @@
     <ClCompile Include="Day28.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Day29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
