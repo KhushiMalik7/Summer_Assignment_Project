@@ -150,6 +150,7 @@
     <ClCompile Include="Day28.cpp" />
     <ClCompile Include="Day29.cpp" />
     <ClCompile Include="Day3.cpp" />
+    <ClCompile Include="Day30.cpp" />
     <ClCompile Include="Day4.cpp" />
     <ClCompile Include="Day5.cpp" />
     <ClCompile Include="Day6.cpp" />
